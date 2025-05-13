@@ -1,4 +1,5 @@
-📄 1. Project Title: Predicting Online Learning Completion Using Machine Learning
+📄 1. Project Title: Predicting Online Learning Completion Using Machine Learning.
+
 📌 Submitted by: Ashish Gupta
 B.Tech CSE (AI), KIET Institute of Technology
 📅 Date: 22 April 2025
